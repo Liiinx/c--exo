@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1638291364 source:/home/apprenant/Documents/testCPlusPlus/main.cpp
+	<iostream>
+	<Person.h>
+	<Cat.h>
+
+1638351039 source:/home/apprenant/Documents/testCPlusPlus/src/Person.cpp
+	"Person.h"
+
+1638291461 /home/apprenant/Documents/testCPlusPlus/include/Person.h
+	"Creature.h"
+	<iostream>
+	<string>
+
+1638268456 /home/apprenant/Documents/testCPlusPlus/include/LivingBeing.h
+
+1638268074 source:/home/apprenant/Documents/testCPlusPlus/src/LivingBeing.cpp
+	"LivingBeing.h"
+
+1638267249 source:/home/apprenant/Documents/testCPlusPlus/src/Genre.cpp
+	"Genre.h"
+
+1638267760 /home/apprenant/Documents/testCPlusPlus/include/Genre.h
+
+1638351039 /home/apprenant/Documents/testCPlusPlus/include/Creature.h
+	<iostream>
+	<string>
+
+1638269673 /home/apprenant/Documents/testCPlusPlus/include/Gender.h
+	<iostream>
+	<string>
+	"Creature.h"
+
+1638350189 source:/home/apprenant/Documents/testCPlusPlus/src/Cat.cpp
+	"Cat.h"
+
+1638350189 /home/apprenant/Documents/testCPlusPlus/include/Cat.h
+	<iostream>
+	<string>
+	"Creature.h"
+
+1638291310 source:/home/apprenant/Documents/testCPlusPlus/src/Creature.cpp
+	"Creature.h"
+
+1638269083 source:/home/apprenant/Documents/testCPlusPlus/src/Gender.cpp
+	"Gender.h"
+
